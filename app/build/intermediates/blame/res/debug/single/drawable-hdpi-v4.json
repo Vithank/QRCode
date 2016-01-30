@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\work\\workspaces\\as_test\\QRCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "E:\\work\\workspaces\\as_test\\QRCode\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\work\\workspaces\\as_test\\QRCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\work\\workspaces\\as_test\\QRCode\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
